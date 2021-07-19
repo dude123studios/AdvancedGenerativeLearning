@@ -1,2 +1,2 @@
-# GANS
-These are examples of GAN architectures of which I have coded for expirimental purposes 
+# Generative Models!
+These are examples of GAN/VAE architectures from the book: "Hands-On Image Generation with Tensorflow"
